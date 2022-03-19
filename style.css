@@ -1,0 +1,21 @@
+body
+{
+    background-color: rgb(237, 218, 172);
+    color: orange;
+}
+head{
+    text-align: center;
+}
+b
+{
+    font-size: large;
+    color: rgb(226, 132, 82);
+}
+.btn btn-info
+{
+    color: coral;
+}
+.btn btn-primary
+{
+    color: darkorange;
+}
